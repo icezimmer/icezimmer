@@ -1,9 +1,9 @@
 # Hi there, I'm Giuseppe Lombardi 👋
 
 ## About Me
-- 👨‍🎓 I hold a Bachelor's degree in Mathematics and am currently pursuing a Master's degree in Computer Science, specializing in Machine Learning.
-- 🧑‍🏫 I work as a substitute teacher in Informatics at High School ITI G.Marconi in Pontedera (PI), where I enjoy inspiring the next generation of tech enthusiasts.
-- 🤖 I’m currently engaged in projects that leverage dynamical systems theory and machine learning, aiming to learn complex problems solving numerically Ordinary Differential Equations.
+- 👨‍🎓 I hold a Bachelor's degree in Mathematics and a Master's degree in Computer Science particularly focusing on machine learning.
+- 🧑‍🏫 I am a PhD student in Artificial Intelligence (National PhD). I have a fellowship at Wireless Networks lab (ISTI-CNR)
+- I’m currently engaged in projects that leverage dynamical systems theory, machine learning and statistical learning, aiming to solve complex problems in an efficient way.
 - 📫 You can reach me at [giulmbpersonal@gmail.com](mailto:giulmbpersonal@gmail.com) for queries, collaborations, or just to say hi!
 
 
